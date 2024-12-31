@@ -10,6 +10,12 @@ The analyzer provides three calibrated scan modes; preset scan, selectable `PER 
 
 The 8553L/8552A Spectrum Analyzer has fully calibrated swept coverage from 1 kHz to 110 MHz. This single instrument can be used over many decades of frequency to examine audio spectra, baseband modulation, system IFs, and modulated RF carriers into the VHF region. System performance tests for absolute levels of power, distortion, or spurious radiation are easy to perform using this analyzer. New features such as absolute amplitude calibration are made possible by flat frequency response and highly stable instrument gain.
 
+### Unit History
+
+I made this one from two separate 141S units that each had their own problem such that they would not run. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional.
+
+`TODO: The chronicle of repair.`
+
 ### Documentation
 
 In the process of digitizing. But this [one](https://cz.ebay.de/itm/115262584764?_skw=8553L&hash=item1ad62f77bc:g:cgAAAOSwxtliFGK6&customid=1&toolid=10049).
