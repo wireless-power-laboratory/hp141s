@@ -14,6 +14,10 @@ The 8553L/8552A Spectrum Analyzer has fully calibrated swept coverage from 1 kHz
 
 I made this one from two separate 141S units that each had their own problem such that they would not run. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional.
 
+---
+
+With the addition of a whisper-quiet, externally-powered DC fan, this machine is a perfect function without the bothersome noise.
+
 `TODO: The chronicle of repair.`
 
 ### Documentation
