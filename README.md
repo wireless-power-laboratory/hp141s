@@ -1,4 +1,4 @@
-## The hp141S/8552A/8553L Spectrum Analyzer
+## The hp141S/8553L/8552A Spectrum Analyzer
 
 Repository for research and development with the Hewlett-Packard 141S Spectrum Analyzer, 8553L RF Section and 8552A IF Section.
 
