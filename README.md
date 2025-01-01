@@ -48,6 +48,8 @@ I cleaned the damaged one to see if it could be simply straightened and brought 
 
 ![apart-01](/restoration/apart-01.jpg)
 
+-- To be continued...
+
 I made this one from two separate 141S units that each had their own problem such that they would not run. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional.
 
 With the addition of a whisper-quiet, externally-powered DC fan, this machine is a perfect function without the bothersome noise.
