@@ -22,7 +22,29 @@ With the 8553B RF Section as most, if not all of my models, operated between 400
 
 It is a 141S with 8553L RF Section and 8552A IF Section from April 1968, when it was first released. It shows the newly-introduced Spectrum Analyzer with a 8601A Sweeper/Generator that is generating a sweep through a low-pass filter displaying its characteristics across the band. Reflecting-back on the event, I'm not sure if it was the tracking feature or the fact that the machines were photographed outside - where I was forbidded to go at the time - but I decided to switch my foundation equipment to this model.
 
-Obtaining machines such as these are not an easy task and even if they are found, they are usually worse for wear, given their age and uncertanly who either kept them in a clean place or neglected them entirely, leaving them to rust. So a bit of luck and prayer always helps. 
+Obtaining machines such as these are not an easy task and even if they are found, they are usually worse for wear, given their age and uncertanly who either kept them in a clean place or neglected them entirely, leaving them to rust. So a bit of luck and prayer always helps; including a plan to purchase at least two complete units - _complete_ meaning a mainframe and plugins, multiples where possible. As this machine (more the 141T than the 141S) was quite popular at the time, there were a lot of sources to buy. The 141S was difficult but I found two sellers; one sold me this one:
+
+![1-141S](/img/1-141S.jpg)
+
+And this one, where I had found using an image search and was lucky the guy still had it.
+
+![2-141S](/img/2-141S.jpg)
+
+With these exact plugins.
+
+![8553-8552](/img/8553-8552.jpg)
+
+When the first one arrived, I discovered it was packed poorly and had been dropped enroute, where the plugins had pressed themselves into the side of the mainframe closest to the CRT, resuling in this kind of damage.
+
+![bend](/img/bend.jpg)
+
+The other arrived safely but had some kind of electrical incident and the 120-240V input was blackened. It had been repaired so it probably worked, but I wasn't willing to take the risk.
+
+![smoky-filter](/img/smoky-filter.jpg)
+
+I cleaned the damaged one to see if it could be simply straightened and brought into service. Once the incorrect plugins were removed, the correct ones would not slide-in, the bend was too severe. So I took some of it apart and it was used in this condition for six months.
+
+![apart-01](/restoration/apart-01.jpg)
 
 I made this one from two separate 141S units that each had their own problem such that they would not run. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional.
 
