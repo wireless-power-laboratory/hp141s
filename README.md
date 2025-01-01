@@ -12,6 +12,12 @@ The 8553L/8552A Spectrum Analyzer has fully calibrated swept coverage from 1 kHz
 
 ### Unit History
 
+For the past years, I had been working with a Hewlett-Packard 141T to perform circuital analysis of the different ideas I would contemplate for wireless power.
+
+![141T](/img/141T.jpg)
+
+It occured to me one day in 2021, after languishing indoors during the pandemic lockdowns
+
 I made this one from two separate 141S units that each had their own problem such that they would not run. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional.
 
 ---
