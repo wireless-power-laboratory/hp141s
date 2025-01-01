@@ -22,6 +22,8 @@ With the 8553B RF Section as most, if not all of my models, operated between 400
 
 It is a 141S with 8553L RF Section and 8552A IF Section from April 1968, when it was first released. It shows the newly-introduced Spectrum Analyzer with a 8601A Sweeper/Generator that is generating a sweep through a low-pass filter displaying its characteristics across the band. Reflecting-back on the event, I'm not sure if it was the tracking feature or the fact that the machines were photographed outside - where I was forbidded to go at the time - but I decided to switch my foundation equipment to this model.
 
+### The Chase
+
 Obtaining machines such as these are not an easy task and even if they are found, they are usually worse for wear, given their age and uncertanly who either kept them in a clean place or neglected them entirely, leaving them to rust. So a bit of luck and prayer always helps; including a plan to purchase at least two complete units - _complete_ meaning a mainframe and plugins, multiples where possible. As this machine (more the 141T than the 141S) was quite popular at the time, there were a lot of sources to buy. The 141S was difficult but I found two sellers; one sold me this one:
 
 ![1-141S](/img/1-141S.jpg)
@@ -48,11 +50,7 @@ I cleaned the damaged one to see if it could be simply straightened and brought 
 
 I made this one from two separate 141S units that each had their own problem such that they would not run. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional.
 
----
-
 With the addition of a whisper-quiet, externally-powered DC fan, this machine is a perfect function without the bothersome noise.
-
-`TODO: The chronicle of repair.`
 
 ### Documentation
 
