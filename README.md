@@ -22,4 +22,4 @@ With the addition of a whisper-quiet, externally-powered DC fan, this machine is
 
 ### Documentation
 
-In the process of digitizing. But this [one](https://cz.ebay.de/itm/115262584764?_skw=8553L&hash=item1ad62f77bc:g:cgAAAOSwxtliFGK6&customid=1&toolid=10049).
+I think there is one. But this [one](https://cz.ebay.de/itm/115262584764?_skw=8553L&hash=item1ad62f77bc:g:cgAAAOSwxtliFGK6&customid=1&toolid=10049).
