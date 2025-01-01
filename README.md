@@ -1,4 +1,4 @@
-## The hp141s/8552A/8553L Spectrum Analyzer
+## The hp141S/8552A/8553L Spectrum Analyzer
 
 Repository for research and development with the Hewlett-Packard 141S Spectrum Analyzer, 8553L RF Section and 8552A IF Section.
 
@@ -16,7 +16,7 @@ For the past years, I had been working with a Hewlett-Packard 141T to perform ci
 
 ![141T](/img/141T.jpg)
 
-It occured to me one day in 2021, after languishing indoors during the pandemic lockdowns
+With the 8553B RF Section as most, if not all of my models, operated between 400 kHz and 90 MHz. It occured to me one day in 2021, after languishing indoors during the pandemic lockdowns
 
 I made this one from two separate 141S units that each had their own problem such that they would not run. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional.
 
