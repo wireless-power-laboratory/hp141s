@@ -16,13 +16,13 @@ For the past years, I had been working with a Hewlett-Packard 141T to perform ci
 
 ![141T](/img/141T.jpg)
 
-With the 8553B RF Section as most, if not all of my models, operated between 400 kHz and 90 MHz. I was able to obtain quite a bit of focus on this work beginning 2020, but after languishing indoors during the pandemic lockdowns sometime in 2021, I found an old journal publication on eBay that had this image on the cover.
+With the 8553B RF Section as most, if not all of my models, operated between 400 kHz and 90 MHz. I was able to obtain quite a bit of focus on this work beginning 2020, but after languishing indoors during the pandemic lockdowns sometime in 2021, I found an old journal publication on eBay that had this image on its cover.
 
 ![HPJ-A68](/img/HPJ-A68.jpg)
 
 It is a 141S with 8553L RF Section and 8552A IF Section from April 1968, when it was first released. It shows the newly-introduced Spectrum Analyzer with a 8601A Sweeper/Generator that is generating a sweep through a low-pass filter displaying its characteristics across the band. Reflecting-back on the event, I'm not sure if it was the tracking feature or the fact that the machines were photographed outside - where I was forbidded to go at the time - but I decided to switch my foundation equipment to this model.
 
-
+Obtaining machines such as these are not an easy task and even if they are found, they are usually worse for wear, given their age and uncertanly who either kept them in a clean place or neglected them entirely, leaving them to rust. So a bit of luck and prayer always helps. 
 
 I made this one from two separate 141S units that each had their own problem such that they would not run. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional.
 
