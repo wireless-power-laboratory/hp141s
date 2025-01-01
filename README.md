@@ -18,7 +18,7 @@ For the past years, I had been working with a Hewlett-Packard 141T to perform ci
 
 With the 8553B RF Section as most, if not all of my models, operated between 400 kHz and 90 MHz. I was able to obtain quite a bit of focus on this work beginning 2020, but after languishing indoors during the pandemic lockdowns sometime in 2021, I found this HP Journal on eBay.
 
-![HPJ-A68](/img/HPJ-A68.png)
+![HPJ-A68](/img/HPJ-A68.jpg)
 
 
 
