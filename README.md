@@ -56,7 +56,7 @@ Looking at this repair, there was _no way_ I was going to simply power it on. Th
 
 ### Next steps
 
-I cleaned the damaged one to see if it could be simply straightened and brought into service. Once the incorrect plugins were removed, the correct ones would not slide-in, the bend was too severe. So I took it apart and it was used in this condition for six months.
+I cleaned the damaged one to see if it could be simply straightened and brought into service. Once the incorrect plugins were removed, the correct ones would not slide-in, the bend was too severe. So I took it apart and used it in this condition to perform various measurments. After realizing such was unsustainable, I decided to dig-in and sort a good unit.
 
 ![apart-01](/restoration/apart-01.jpg)
 
@@ -76,7 +76,7 @@ And one for the storage driver card:
 
 After three days' devoted work, setting the 8553L/8552A RF and IF sections, connecting the external battery 12v source, and powering-on, the 30MHz CAL signal appeared thusly:
 
-![finished](/restoration/finished-cal.jpg)
+![finished](/restoration/finished-cal-term.jpg)
 
 ### Documentation
 
