@@ -64,13 +64,19 @@ Another issue was the condition of the CRT storage driver, where one had decayin
 
 ![board-2](/restoration/board-2.jpg)
 
-Given the number of wires, I didn't want to make the mistake of mis-wiring on essembly, so I created two diagrams for the high-voltage board connections
+Given the number of wires, I didn't want to make the mistake of mis-wiring on essembly, so I created two diagrams for the high-voltage board connections:
 
 ![00141-66512](/restoration/00141-66512.png)
 
-And one for the storage driver card
+And one for the storage driver card:
 
 ![00141-66510](/restoration/00141-66510.png)
+
+### Final result
+
+After three days' devoted work, setting the 8553L/8552A RF and IF sections, connecting the external battery 12v source, and powering-on, the 30MHz CAL signal appeared thusly:
+
+![finished](/restoration/finished-cal.jpg)
 
 ### Documentation
 
