@@ -52,6 +52,10 @@ It had been repaired so it probably worked, but I wasn't willing to take the ris
 
 ![weld-cap](/img/141S-weld-cap.jpg)
 
+Looking at this repair, there was _no way_ I was going to simply power it on. The seller said it had been in good working condition - I validated this fact at the end when I saw the 8553L nearly spot-on with its 30MHz calibration signal - but here was the assessment that gave me pause for six months.
+
+### Next steps
+
 I cleaned the damaged one to see if it could be simply straightened and brought into service. Once the incorrect plugins were removed, the correct ones would not slide-in, the bend was too severe. So I took it apart and it was used in this condition for six months.
 
 ![apart-01](/restoration/apart-01.jpg)
