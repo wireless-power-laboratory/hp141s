@@ -4,6 +4,10 @@ Repository for research and development with the Hewlett-Packard 141S Spectrum A
 
 ![image](/img/141s-front.jpg)
 
+I created this unit from two separate 141S units that each had their own problem such that they would not run in-themselbes. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional. With the addition of a whisper-quiet, externally-powered DC fan, this machine is in a state of perfection while being retrocorrect and _without_ bothersome noise.
+
+### Background
+
 Spectrum analysis provides a rapid means of evaluating the performance of power and communications systems; the spectrum analyzer is useful for monitoring, as well as testing and alignment. Important measurements such as distortion, percent amplitude modulation, carrier, and sideband suppression carrier and pilot levels, and calibration of FM deviation by the carrier null technique are easily made. The Model 141S/8553L/8552A Spectrum Analyzer provides high-resolution coverage from 1 kHz to 110 MHz, a range covering baseband, communications broadcast, as wall as navigation systems and the common Intermediate Frequencies (IFs). All functions are calibrated: Scan widths from 200 Hz for modulation and stability analysis to 100 MHz for monitoring out-of-band signals such as carrier distortion.
 
 The analyzer provides three calibrated scan modes; preset scan, selectable `PER DIVISION` can and `ZERO` scan. Present scan displays essentially the entire swept frequency range of the analyzer on a single scale. You can view the broadband effects of circuit adjustments and refinements as they are made. The `FREQUENCY` tuning knob moves the dial pointer on the frequency dial and a corresponding frequency marker on the CRT display. Each response can be identified by reading frequency directly from the calibrated CRT or by tuning the frequency marker to the signal and reading the frequency dial.
@@ -40,20 +44,30 @@ When the first one arrived, I discovered it was packed poorly and had been dropp
 
 ![bend](/img/bend.jpg)
 
-The other arrived safely but had some kind of electrical incident and the 120-240V input was blackened. It had been repaired so it probably worked, but I wasn't willing to take the risk.
+The other arrived safely but had some kind of electrical incident and the 120-240V input was blackened.
 
 ![smoky-filter](/img/smoky-filter.jpg)
 
-I cleaned the damaged one to see if it could be simply straightened and brought into service. Once the incorrect plugins were removed, the correct ones would not slide-in, the bend was too severe. So I took some of it apart and it was used in this condition for six months.
+It had been repaired so it probably worked, but I wasn't willing to take the risk.
+
+![weld-cap](/img/141S-weld-cap.jpg)
+
+I cleaned the damaged one to see if it could be simply straightened and brought into service. Once the incorrect plugins were removed, the correct ones would not slide-in, the bend was too severe. So I took it apart and it was used in this condition for six months.
 
 ![apart-01](/restoration/apart-01.jpg)
 
--- To be continued...
+Another issue was the condition of the CRT storage driver, where one had decaying plastic adjustments and this was the unit with the good CRT storage. At one point, the dichotomy of functionality verses dishevelment was striking - had I entered a philosophical repair procedure? 
 
-I made this one from two separate 141S units that each had their own problem such that they would not run. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional.
+![board-2](/restoration/board-2.jpg)
 
-With the addition of a whisper-quiet, externally-powered DC fan, this machine is a perfect function without the bothersome noise.
+Given the number of wires, I didn't want to make the mistake of mis-wiring on essembly, so I created two diagrams for the high-voltage board connections
+
+![00141-66512](/restoration/00141-66512.png)
+
+And one for the storage driver card
+
+![00141-66510](/restoration/00141-66510.png)
 
 ### Documentation
 
-I think there is one. But this [one](https://cz.ebay.de/itm/115262584764?_skw=8553L&hash=item1ad62f77bc:g:cgAAAOSwxtliFGK6&customid=1&toolid=10049).
+The Display Section 00141-90905, can be found [here](/doc/00141-90905.pdf).
