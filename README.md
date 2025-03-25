@@ -4,7 +4,7 @@ Repository for research and development with the Hewlett-Packard 141S Spectrum A
 
 ![image](/img/141s-front.jpg)
 
-I created this unit from two separate 141S units that each had their own problem such that they would not run in-themselbes. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional. With the addition of a whisper-quiet, externally-powered DC fan, this machine is in a state of perfection while being retrocorrect and _without_ bothersome noise.
+I created this unit from two separate 141S units that each had their own distinct problems such that they would not run in-themselves. One had a burned-out power plug and the other a damaged CRT such that the internal storage capabilities were non-functional. After a long-spell of diagnosis, assessment, swapping, and repairs, with the addition of a whisper-quiet, externally-powered DC fan, this machine is in a state of perfection while being retrocorrect and _without_ bothersome noise.
 
 ### Background
 
